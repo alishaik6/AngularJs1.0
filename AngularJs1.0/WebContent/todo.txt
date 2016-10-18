@@ -1,0 +1,7 @@
+
+implement $timeout 
+
+
+$timeout(function()
+{
+}, 3000);
