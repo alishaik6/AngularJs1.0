@@ -5,3 +5,6 @@ implement $timeout
 $timeout(function()
 {
 }, 3000);
+
+
+filter method
